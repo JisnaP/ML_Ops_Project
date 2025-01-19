@@ -12,11 +12,11 @@ list_of_files=[
     "src/pipeline/__init__.py",
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
-    "src/utils/__init__.py"
+    "src/utils/__init__.py",
     "src/utils/utils.py",
     "src/logger/logging.py",
-    "src/exception/execption",
-    "tests/__init__.py"
+    "src/exception/execption.py",
+    "tests/__init__.py",
     "tests/unit/__init__.py",
     "tests/intergration/__init__.py",
     "init.setup.sh",
